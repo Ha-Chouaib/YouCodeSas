@@ -1,3 +1,4 @@
 Git: It's an engine that coordinate and control a Local project changes and history gives you the capabilty to move between its versions (each version means a new commited change) and know exactly who and when this changes happened and more 
 GitHub: it's an application that you can through it to view and manage git commits and history also it acts as a stor you can access your project online and even access others projec remotely  
 JS: It's a programming language most common in web dev in addition it's a hibrid lang uses interpretation and compilation in very optimized way to have fast start up also optimized machine code
+Node.js:it's a js run time  that convert the code to the mashine code and responcible in js code execution
